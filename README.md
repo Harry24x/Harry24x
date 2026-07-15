@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Computer+Science+Student+%40+OTH+Regensburg;Full+Stack+%2B+Cloud+%2B+AI+Engineer;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
+
+
+
 <br/>
 
 ![OTH Regensburg](https://img.shields.io/badge/OTH_Regensburg-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
