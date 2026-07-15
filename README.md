@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e3f,50:4b2e83,100:7b2ff7&height=220&section=header&text=Harman%20Bhangu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Harman%20Bhangu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20&%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Computer+Science+Student+%40+OTH+Regensburg;Full+Stack+%2B+Cloud+%2B+AI+Engineer;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
