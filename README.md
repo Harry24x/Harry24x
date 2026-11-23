@@ -1,7 +1,7 @@
 # Hi, I'm Harman Bhangu 👋
 
 **Computer Science student at OTH Regensburg** · building full-stack, cloud and LLM applications
-📍 Regensburg, Germany · 🎯 Looking for a **mandatory internship (Pflichtpraktikum) from January 2027**
+📍 Regensburg, Germany · 🎯 Looking for **OPPURTUNITIES AS SOFTWARE ENGINEER**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harry24x.github.io-24292e?style=flat-square&logo=githubpages&logoColor=white)](https://harry24x.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhanguharman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanguharman)
