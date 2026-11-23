@@ -32,12 +32,17 @@
 
 ### Tech stack
 
-**Languages:** Java · Python · JavaScript · SQL · R · TypeScript *(learning)*
-**AI & APIs:** LLM APIs (OpenAI, Gemini, Groq) · RAG · Prompt Engineering · Tool Calling · LangGraph *(learning)*
+**Languages:** Java · Python · JavaScript · SQL · R · TypeScript
+
+**AI & APIs:** LLM APIs (OpenAI, Gemini, Groq) · RAG · Prompt Engineering · Tool Calling · LangGraph
+
 **Backend:** Spring Boot · Spring Security / JWT · REST APIs · FastAPI · Node.js
-**Frontend:** React · HTML/CSS · Bootstrap · Streamlit · Tailwind CSS *(learning)*
+
+**Frontend:** React · HTML/CSS · Bootstrap · Streamlit · Tailwind CSS
+
 **Cloud & DevOps:** Microsoft Azure (Functions, Blob Storage) · Docker · GitHub Actions · CI/CD · Linux
-**Databases & Tools:** MariaDB · MySQL · SQLite · PostgreSQL *(learning)* · Git · Postman · JUnit
+
+**Databases & Tools:** MariaDB · MySQL · SQLite · PostgreSQL · Git · Postman · JUnit
 
 ---
 
