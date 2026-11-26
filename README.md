@@ -24,7 +24,7 @@
 |---|---|---|
 | **[BriefKlar](https://github.com/Harry24x/briefklar)** | RAG app that explains German official letters and bureaucracy rules to international students, with cited official sources | Python · RAG · FastAPI · PostgreSQL · TypeScript · Docker · CI/CD |
 | **[Structura ERP](https://github.com/Harry24x/Structura-ERP)** | LLM-based web app that turns business process descriptions into ERP process diagrams; supports OpenAI and Gemini as AI providers | LLM APIs · Gemini · Web App · Tests |
-| **[TweetGo](https://github.com/Harry24x/Tweetgo)** | Twitter-like app (posts, follows, likes, comments, hashtags) with a Spring Boot REST API (18 endpoints), 85 automated tests in GitHub Actions and a one-command Docker setup | Java · Spring Boot · React · JWT · MariaDB · Docker · JUnit |
+| **[TweetGo](https://github.com/Harry24x/Tweetgo)** | Twitter-like app (posts, follows, likes, comments, hashtags) with a Spring Boot REST API (19 endpoints), 85 automated tests in GitHub Actions and a one-command Docker setup | Java · Spring Boot · React · JWT · MariaDB · Docker · JUnit |
 | **[AI Resume Screener](https://github.com/Harry24x/ai-resume-screener)** | Compares a PDF CV with a job description and returns a match score, skill gaps and recommendations as validated JSON | Python · Streamlit · Groq API · LLaMA 3.3 · Prompt Engineering |
 | **FuelWatch** | Serverless pipeline that ingests live fuel prices from the Tankerkönig API into a real-time dashboard, deployed on Microsoft Azure with CI/CD | Python · Azure Functions · Blob Storage · JavaScript |
 
